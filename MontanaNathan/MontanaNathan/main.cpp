@@ -1,6 +1,11 @@
 //Montana Nicholas
+<<<<<<< HEAD
 
 #include <iostream>
+=======
+//Nathan Mas
+
+>>>>>>> 4c3f07a90719eec453ff4703fc9ca7a87b35574e
 
 int main()
 char printMenu() //written by leader
