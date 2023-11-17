@@ -3,43 +3,12 @@
 #include <iostream>
 
 char PrintMenu(char t_newPrintMenu);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-char printmenu(char t_newprintmenu);
-#include <iostream>
 int main()
 {
-<<<<<<< HEAD
 	return 1;
 }
 
-char printmenu()
+char printMenu(char t_newPrintMenu)//Nathan
 {
 	char choice = ' ';
 	std::cout << "Please enter an upper case letter to convert from left to right/nand lower to convert from right to left/n/n";
@@ -51,14 +20,17 @@ char printmenu()
 	std::cin >> choice;
 	return choice;
 }
-=======
 
-	char PrintMenu(char t_newPrintMenu);
 
+
+
+char printMenu(char t_newPrintMenu);
+int main2()
+{
 	return 1;
 }
 
-char printMenu() //written by leader
+char printMenu() //Montana
 
 {
 	char choice = ' ';
@@ -73,4 +45,3 @@ char printMenu() //written by leader
 
 	return choice;
 }
->>>>>>> 93ada7566154643aded70254e02c951973ff2b09
